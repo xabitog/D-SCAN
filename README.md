@@ -20,7 +20,7 @@ It specializes in detecting "Dependency Confusion" risks and missing npm package
 4.  **Risk Identification:** If a package is listed in your project but is missing from the public registry (404), it is flagged as a potential high-risk vector for malicious code injection.
 
 ## Getting Started
-
+## URL TO ACCESS TOOL : https://d-scan-xabit.netlify.app/
 1.  **Configure:** Input your Target GitHub Organization and a valid GitHub Personal Access Token (PAT).
 2.  **Audit:** Run the scan to perform a deep analysis of your dependency tree.
 3.  **Analyze:** View the output in the terminal to identify risky dependencies and mitigate supply chain threats before deployment.
