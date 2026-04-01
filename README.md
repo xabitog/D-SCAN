@@ -31,5 +31,5 @@ D-SCAN is intended for ethical security research and authorized auditing only. U
 
 ## Developed by
 
-@zabitmajeed 
+@zabitmajeed | @shahmohsin
 Cybersecurity Researcher
