@@ -22,7 +22,7 @@ It specializes in detecting "Dependency Confusion" risks and missing npm package
 ## Getting Started
 ## URL TO ACCESS TOOL : https://d-scan-xabit.netlify.app/
 1.  **Configure:** Input your Target GitHub Organization and a valid GitHub Personal Access Token (PAT).
-2.  USE THIS TOKEN FOR REVIEW MY HACKING TOOL : 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 
+2.  USE github token
 3.  **Audit:** Run the scan to perform a deep analysis of your dependency tree.
 4.  **Analyze:** View the output in the terminal to identify risky dependencies and mitigate supply chain threats before deployment.
 
