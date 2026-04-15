@@ -30,4 +30,4 @@ It specializes in detecting "Dependency Confusion" risks and missing npm package
 
 D-SCAN is intended for ethical security research and authorized auditing only. Users are responsible for ensuring they have permission to scan the target organizations.
 
-## Developed by @zabitmajeed | @shahmohsin
+## Developed by @zabitmajeed
